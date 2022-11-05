@@ -1,6 +1,10 @@
 # Counter-Game
 Basic Webpage where you can increment or decrement or can also reset the value.
 
+# Live Project
+
+https://priyanshu-singh-1.github.io/Counter-Game/
+
 # Screenshot
 
 ![image](https://user-images.githubusercontent.com/107169043/200132253-040077fc-ad88-49da-a3f7-ed0ec3302fbc.png)
